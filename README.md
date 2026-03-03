@@ -4,8 +4,6 @@
 - 🌱 Estoy aprendiendo **C#, ARM64**.
 - 📚 Fuera de la programación, disfruto **Peliculas, Series, Videojuegos**.
 
-### ✨ Frase favorita
-
 <p align="center">
   <i>"Beauty in Chaos"</i>
 </p>
